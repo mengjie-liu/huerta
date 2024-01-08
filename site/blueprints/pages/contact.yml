@@ -1,0 +1,27 @@
+title: contact
+
+columns:
+  - width: 1/2
+    sections:
+      info:
+        type: fields
+        fields:
+          NYlocation:
+            type: textarea
+          Tijuanalocation:
+            type: textarea
+          pressemail:
+            type: text
+          internemail:
+            type: text
+          generalemail:
+            type: text
+
+  - width: 1/2
+    sections:
+      images:
+        type: files
+        layout: cards
+        image:
+          ratio: 3/2
+          cover: true

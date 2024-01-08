@@ -1,0 +1,45 @@
+Title: Casa de Jardines Amurallados
+
+----
+
+Name: Casa de Jardines Amurallados
+
+----
+
+Location: Valle de Guadalupe, Baja California, Mexico
+
+----
+
+Year: 2023
+
+----
+
+Description: More info coming soon.
+
+----
+
+Projectstatus: Completion 2024
+
+----
+
+Team: Gabriel Huerta, Ruta Misiuna, Meghna Mudaliar
+
+----
+
+Consultants: (Structural Engineer) Eme Cubo, (Mechanical Engineer) HVAC Mechanical Tijuana, (Electrical Engineer) PYME, (Facade Consultant) Grupo Basica
+
+----
+
+Photography: 
+
+----
+
+Status: Completion 2024
+
+----
+
+Caption: 
+
+----
+
+Uuid: bgkxpHUsF9bf4LBU

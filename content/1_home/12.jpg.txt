@@ -1,0 +1,17 @@
+Project: Casa Escondida
+
+----
+
+Orient: vertical
+
+----
+
+Color: color
+
+----
+
+Orientation: vertical
+
+----
+
+Uuid: b2dw51CwLLlVdwAc

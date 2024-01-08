@@ -1,0 +1,17 @@
+Project: Casa de las Bellas Artes_v1
+
+----
+
+Orient: horizontal
+
+----
+
+Color: color
+
+----
+
+Orientation: horizontal
+
+----
+
+Uuid: PKDdvVACCDvtOlcI

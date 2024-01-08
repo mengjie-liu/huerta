@@ -1,0 +1,17 @@
+Project: Casa de Jardines Amurallados
+
+----
+
+Orient: horizontal
+
+----
+
+Color: color
+
+----
+
+Orientation: horizontal
+
+----
+
+Uuid: op8yqYYF20F0n7yr

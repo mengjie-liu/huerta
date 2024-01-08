@@ -1,0 +1,17 @@
+Project: Casa Escondida
+
+----
+
+Orient: horizontal
+
+----
+
+Color: color
+
+----
+
+Orientation: horizontal
+
+----
+
+Uuid: nLMdf21FMyOla9x3

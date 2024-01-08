@@ -1,0 +1,21 @@
+title: files
+
+sections:
+  info:
+    type: fields
+    fields:
+      project:
+        type: text
+        width: 1/3
+      orient:
+        type: select
+        options:
+          horizontal: horizontal
+          vertical: vertical
+        width: 1/3
+      color:
+        type: select
+        options:
+          black&white: black&white
+          color: color
+        width: 1/3

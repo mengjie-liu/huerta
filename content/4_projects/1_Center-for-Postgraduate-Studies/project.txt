@@ -1,0 +1,43 @@
+Title: Center for Postgraduate Studies
+
+----
+
+Name: Center for Postgraduate Studies
+
+----
+
+Location: Mexicali, Baja California, Mexico
+
+----
+
+Year: 2016
+
+----
+
+Description:
+
+The Center for Postgraduate Studies establishes a new academic and social center at Cetys University's flagship Mexicali campus, embodying the vision of an institution dedicated to shaping a new culture for expanding and sharing knowledge throughout Baja California.
+<br />
+&emsp;&emsp;Located in the arid climate of the Sonoran Desert, along the San Andreas fault line, the building stands as a fortified block that protects against earthquakes and high temperatures. The solid mass of the building wraps around the southeast and west sides with a layered exterior shell and built earthen topography insulating against the sun, whereas to the north the structure and landscape open to connect with the central campus quad. The thick exterior walls house the building’s seismic structure and help isolate interior and exterior temperatures, and an expanded aluminum screen offset from the perimeter envelops the building, creating an additional layer that allows for natural air circulation and reduced heat gain.
+<br />
+&emsp;&emsp;The building’s interior organization is predicated upon the interaction of two distinct spatial zones, creating a strategic composition of public and private spaces that simultaneously enable passive ventilation. An enclosed, private zone of classrooms, offices, and study areas interlocks with an open, public zone made up of various social spaces, producing a vibrant interplay of transparency and opacity as well as a continuous dialogue of spatial uses. A spiraling of hallways across the building’s three floors allows for both pedestrian and air circulation. The central atrium is not only a major social hub, but also the largest of various thermal centers that culminate in a system of solar chimneys designed to cool the building’s interior.
+
+----
+
+Projectstatus: Completed 2016
+
+----
+
+Team: Gabriel Huerta, Kevin Murray, Angelos Palaskas
+
+----
+
+Consultants: (Structural Engineer) Ing. Manuel Rojas Guzman - Ingeneria Integral Estructural, (Mechanical Engineer) Ing. Luis Vilchis - Simsa and Grupo Softair, (Landscape Design) Jorge Almaraz - Green Desert, (Facade Consultant) Grupo Basica, (Acoustics) Ing. Roberto Velasco - Soluciones Acusticas, (Building Envelope) Jeff Jensen, (Shades) Persianas Paldi and Karina Oliver, (Interior Glass) King Window, (Metalwork) Promotinox
+
+----
+
+Photography: Roland Halbe
+
+----
+
+Uuid: bgkxpHUsF9bf4LBU

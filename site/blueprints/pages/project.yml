@@ -1,0 +1,35 @@
+title: project
+
+columns:
+  - width: 1/2
+    sections:
+      info:
+        type: fields
+        fields:
+          name:
+            type: text
+          location:
+            type: text
+            width: 1/2
+          year:
+            type: text
+            width: 1/2
+          description:
+            type: textarea
+          projectstatus:
+            type: text
+          team:
+            type: textarea
+          consultants:
+            type: textarea
+          photography:
+            type: text
+
+  - width: 1/2
+    sections:
+      images:
+        type: files
+        layout: cards
+        image:
+          ratio: 3/2
+          cover: true

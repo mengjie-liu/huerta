@@ -1,0 +1,371 @@
+@font-face {
+    font-family: monument;
+    src: url(../MonumentGrotesk-Medium.ttf);
+}
+
+html{
+    width: 100%;
+    height: 100%;
+    font-size: 1rem;
+    overflow:hidden;
+}
+
+*{
+    font-family: monument;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: black;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+.layer{
+    width: 100vw;
+    height: 22.5rem;
+/* flex-shrink: 0; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #FFF 36%, rgba(255, 255, 255, 0.00) 100%);
+    /* backdrop-filter: blur(2px); */
+    z-index: 8;
+}
+
+.aboutLayer{
+    width: 100vw;
+    height: 8.6rem;
+    /* flex-shrink: 0; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #FFF 36%, rgba(255, 255, 255, 0.00) 100%);
+    /* backdrop-filter: blur(2px); */
+    z-index: 8;
+}
+
+header{
+    position:absolute;
+    width: 96vw;
+    font-size: 2.4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1.4rem;
+    z-index: 11 !important;
+}
+
+.titleLinks{
+    font-size: 1.8rem;
+    display: inline-flex;
+    gap:6.4rem;
+}
+
+.onAbout{
+    text-decoration: underline !important;
+    text-underline-offset: 0.5rem;
+}
+
+.onContact{
+    text-decoration: underline !important;
+    text-underline-offset: 0.5rem;
+}
+
+.subheader{
+    position:absolute;
+    width: 96vw;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 8.6rem;
+    font-size: 1.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    z-index: 10 !important;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+.nodisplay{
+    display: none;
+}
+
+.back{
+    flex: 3;
+}
+
+.projectTitle{
+    flex: 8;
+}
+
+.prevnext{
+    display: inline-flex;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.container{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 96vw;
+    height: 100vh;
+    display: flex;
+    gap: 8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    z-index: 3 !important;
+}
+
+.imgs{
+    padding-top: 20rem;
+    padding-bottom: 4vh;
+    flex: 6;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    gap: 2.5rem;
+}
+
+.twoColums{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap: 2.5rem;
+}
+
+.twoColums .singleImage{
+    flex: 1;
+}
+
+.singleImage{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    /* gap: 0.5rem; */
+    /* justify-content: space-between; */
+    /* height: 100%; */
+}
+
+.singleImage img{
+    /* flex: 10; */
+    object-fit: cover;
+    /* min-width: 95.2%; */
+    width: 100%;
+}
+
+.singleImage .caption{
+    flex: 1;
+    font-size: 1rem;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+
+.vertical img{
+    /* flex: 6; */
+    object-fit: cover;
+    /* min-width: 90%; */
+    width: 100%;
+    min-width: 350px;
+    /* min-height: 500px; */
+    height: 100%;
+    max-height: 650px;
+}
+
+.blankImage{
+    background-color: #fff;
+    width: 350px;
+    visibility: hidden;
+}
+
+.vertical .caption{
+    flex: 1;
+    font-size: 1rem;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+
+.description{
+    padding-top: 20rem;
+    flex: 5;
+    font-size: 1.8rem;
+    overflow-y: scroll;
+    padding-bottom: 4vh;
+}
+
+.text{
+    padding-right: 9vw;
+}
+
+.info{
+    font-size: 1rem;
+    padding-top: 10vh;
+    padding-right: 12vw;
+}
+
+.aboutText{
+    width: 54%;
+    font-size: 1.8rem;
+    padding-top: 8.6rem;
+    padding-bottom: 4vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    overflow-x: visible;
+    gap: 2.5rem;
+    padding-left: 26rem;
+}
+
+.firstP{
+    padding-bottom: 6.4rem;
+}
+
+.credits{
+    font-size: 1rem;
+}
+
+.aboutText .twoColums{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.disabled{
+    opacity: 0.2;
+}
+
+.NY, .TJ{
+    transition: opacity 0.3s linear;
+}
+
+.mobile{
+    display: none;
+}
+
+@media only screen and (max-width: 768px){
+    .indexLayer{
+        height: 10rem;
+    }
+    
+    .aboutLayer{
+        height: 10rem;
+    }
+    
+    header{
+        width: 90vw;
+        flex-direction: column;
+        font-size: 2.4rem;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
+    .titleLinks{
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .subheader{
+        width: 90vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        flex-direction: column;
+    }
+
+    .secsubheader{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+
+    .projectTitle{
+        width:100%
+    }
+
+    .back{
+        /* flex: 1; */
+        width: fit-content;
+        display: inline-block;
+    }
+    
+    .prevnext{
+        display: inline-flex;
+        justify-content: space-between;
+        /* flex: 1; */
+    }
+
+    .container{
+        width: 90vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        /* padding-top: 10rem; */
+        flex-direction: column;
+        overflow-y: scroll;
+        gap: 4rem;
+    }
+
+    .imgs{
+        padding-top: 24rem;
+        padding-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 5rem;
+        overflow: visible;
+    }
+
+    .description{
+        padding-top: 0rem;
+        overflow: visible;
+    }
+
+    .text{
+        padding-bottom: 10vh;
+    }
+
+    .info{
+        padding-bottom: 10vh;
+    }
+
+    .column{
+        display: flex;
+        flex-direction: column;
+        gap: 5rem;
+        align-items: center;
+    }
+
+    .vertical img{
+        object-fit: cover;
+        /* min-width: 90%; */
+        width: 100%;
+        min-width: 0;
+        min-height: 300px;
+        height: 100%;
+        /* max-height: 650px; */
+    }
+
+    .aboutText{
+        width:81vw;
+        font-size: 1.8rem;
+        padding-top: 18.6rem;
+        padding-bottom: 4vh;
+        display: flex;
+        flex-direction: column;
+        overflow-y: scroll;
+        gap: 2.5rem;
+        padding-left:0;
+        padding-right:9vw;
+    }
+
+    .desktop{
+        display: none;
+    }
+
+    .mobile{
+        display: block;
+    }
+}

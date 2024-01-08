@@ -1,0 +1,41 @@
+Title: Median Range
+
+----
+
+Name: Median Range
+
+----
+
+Location: New York, New York
+
+----
+
+Year: 2018
+
+----
+
+Description:
+
+The medians of Park Avenue describe a unique setting in one of the most emblematic thoroughfares of New York City. For over a century, these modest strips of real estate have evolved into an urban gallery, creating changing displays of plantings and art visible from adjacent streets and sidewalks.
+<br />
+&emsp;&emsp;Median Range interprets and amplifies the natural and horticultural history of Park Avenue, transforming the medians from display platform into veritable public space. By lifting the ground of the centerlines, an undulating landscape of planted slopes and banks describes a second skyline set against the backdrop of Park Avenue’s commercial district. A series of gestural contours carve out interior and exterior rooms inside this new topography, creating an urban promenade both intimate and exposed, protected from adjacent traffic yet open to surrounding views.
+
+----
+
+Projectstatus: Design Competition
+
+----
+
+Team: Gabriel Huerta, John McMahon, Tyler Napolitano, Angelos Palaskas
+
+----
+
+Consultants: 
+
+----
+
+Photography: 
+
+----
+
+Uuid: bgkxpHUsF9bf4LBU

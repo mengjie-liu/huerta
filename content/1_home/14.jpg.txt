@@ -1,0 +1,17 @@
+Project: Center for Postgraduate Studies
+
+----
+
+Orient: horizontal
+
+----
+
+Color: color
+
+----
+
+Orientation: horizontal
+
+----
+
+Uuid: ZnmWaJ25GNqwElDi

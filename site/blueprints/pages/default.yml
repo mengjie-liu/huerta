@@ -1,0 +1,9 @@
+title: Default Page
+
+sections:
+  images:
+    type: files
+    layout: cards
+    image:
+      ratio: 3/2
+      cover: true

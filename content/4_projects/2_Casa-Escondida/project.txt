@@ -1,0 +1,69 @@
+Title: Casa Escondida
+
+----
+
+Name: Casa Escondida
+
+----
+
+Location: Los Cabos, Baja California Sur, Mexico
+
+----
+
+Year: 2020
+
+----
+
+Description:
+
+Located off the desert coast of Los Cabos, Casa Escondida is a project of multiplicities. Mediating between complex and competing demands  imposed by climate, program, and neighborhood regulations, the design overlays strategies of disguise and duality to construct the concept of a house within a house.
+<br />
+&emsp;&emsp;The discreet exterior displays a compliant structure, conforming to the requisite roof type, limited apertures, and stone cladding stipulated by community guidelines, while inside, architectural freedoms of form and materiality unfold. Carved out of the house’s conceptual massing, a composition of voids creates a second, protected exterior space; a courtyard covered by skylights that tilt and taper at different angles to produce variations in daylighting and natural ventilation. Living and sleeping rooms encircle the courtyard across two floors, weaving together and through the central void to connect the house’s interiors with the space and shade of the cloistered breezeway.
+
+----
+
+Projectstatus: Completed 2020
+
+----
+
+Team: Gabriel Huerta, Daisy Ames, Arshia Gharib, John McMahon, Angelos Palaskas
+
+----
+
+Consultants: (Structural Engineer) Ing. Jacobo Perez Valle - MGA Calculo, (Facade Consultant) Grupo Basica, (Mechanical Engineer) Grupo Softair, (Pool) Hidroequipos Albercas, (Storm Protection Systems) RS Los Cabos, (Interiors and Finishes) Intermark
+
+----
+
+Photography: Roland Halbe
+
+----
+
+Status: Completed 2020
+
+----
+
+Photograpgy: Roland Halbe
+
+----
+
+Caption:
+
+Status
+<br />
+Completed 2020
+<br /><br />
+Project Team
+<br />
+Gabriel Huerta, Daisy Ames, Arshia Gharib, John McMahon, Angelos Palaskas
+<br /><br />
+Project Consultants
+<br />
+(Structural Engineer) Ing. Jacobo Perez Valle - MGA Calculo, (Facade Consultant) Grupo Basica, (Mechanical Engineer) Grupo Softair, (Pool) Hidroequipos Albercas, (Storm Protection Systems) RS Los Cabos, (Interiors and Finishes) Intermark
+<br /><br />
+Photography
+<br />
+Roland Halbe
+
+----
+
+Uuid: bgkxpHUsF9bf4LBU
