@@ -66,7 +66,7 @@
           <?php endif ?>
         </div>
       </div>
-      
+      <br>
       <div class="projectTitle">
         <?= $page->name() ?>
         <br />
