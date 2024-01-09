@@ -249,31 +249,36 @@ header{
 
 @media only screen and (max-width: 768px){
     .indexLayer{
-        height: 10rem;
+        height: 8rem;
     }
     
     .aboutLayer{
-        height: 10rem;
+        height: 8rem;
     }
     
     header{
         width: 90vw;
         flex-direction: column;
-        font-size: 2.4rem;
+        font-size: 1.8rem;
         padding-left: 5vw;
         padding-right: 5vw;
+        padding-top:0.8rem;
     }
 
     .titleLinks{
         width: 100%;
+        font-size: 1.2rem;
         justify-content: space-between;
     }
 
     .subheader{
+        display: flex;
         width: 90vw;
         padding-left: 5vw;
         padding-right: 5vw;
+        font-size: 1.2rem;
         flex-direction: column;
+        padding-top: 8rem;
     }
 
     .secsubheader{
@@ -284,7 +289,7 @@ header{
     }
 
     .projectTitle{
-        width:100%
+        width:100%;
     }
 
     .back{
@@ -310,16 +315,17 @@ header{
     }
 
     .imgs{
-        padding-top: 24rem;
+        padding-top: 18rem;
         padding-bottom: 0;
         display: flex;
         flex-direction: column;
-        gap: 5rem;
+        gap: 1.4rem;
         overflow: visible;
     }
 
     .description{
         padding-top: 0rem;
+        font-size: 1.2rem;
         overflow: visible;
     }
 
@@ -338,6 +344,10 @@ header{
         align-items: center;
     }
 
+    .twoColums{
+        gap: 1.4rem;
+    }
+
     .vertical img{
         object-fit: cover;
         /* min-width: 90%; */
@@ -348,24 +358,11 @@ header{
         /* max-height: 650px; */
     }
 
-    .aboutText{
-        width:81vw;
-        font-size: 1.8rem;
-        padding-top: 18.6rem;
-        padding-bottom: 4vh;
-        display: flex;
-        flex-direction: column;
-        overflow-y: scroll;
-        gap: 2.5rem;
-        padding-left:0;
-        padding-right:9vw;
-    }
-
     .desktop{
         display: none;
     }
 
     .mobile{
-        display: block;
+        display:block;
     }
 }
